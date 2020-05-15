@@ -43,6 +43,6 @@ public class Movie_Color_Getter {
 
             }
         }
-        imageCodecs.imwrite("" + ".jpg", output);
+        imageCodecs.imwrite("result" + ".jpg", output);
     }
 }
